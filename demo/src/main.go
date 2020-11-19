@@ -2,6 +2,7 @@ package main
 
 import "demo"
 
+// http://c.biancheng.net/golang/
 func main() {
 	demo.SayHello()
 	demo.Define()

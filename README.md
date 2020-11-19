@@ -1,7 +1,6 @@
 # Golang
 
 Go语言使用记录
-<!-- http://c.biancheng.net/golang/ -->
 
 ## Go特点
 
