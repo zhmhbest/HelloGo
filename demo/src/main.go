@@ -1,9 +1,20 @@
 package main
 
-// 导入一个包: import (子包 目录)
-// 导入所有包: import (目录)
-import hello "./demo"
+import "demo"
 
 func main() {
-	hello.SayHello()
+	demo.SayHello()
+	demo.Define()
+	demo.Constant()
+	demo.Datatype()
+	demo.ComplexDatatype()
+	demo.Condition()
+	demo.Anonymous()
+	demo.MultipleReturns()
+	demo.Closer()
+	demo.Slice()
+	demo.Range()
+	demo.Exception()
+	demo.CollectionMap()
+	demo.Thread()
 }
