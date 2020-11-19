@@ -27,8 +27,10 @@ func Datatype() {
 	b = true
 	fmt.Println("b=", b)
 
-	var s string = "字符串！"
+	var s string = "C:\\"
 	fmt.Println("s=", s)
+	var ss = `C:\`
+	fmt.Println("ss=", ss)
 
 	fmt.Print("\n")
 }
